@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+dist/
+*.user
+*.suo
+*.vpk
+*.7z
+*.zip
+*.pdb
+*.log
+/强制删除.bat
