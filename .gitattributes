@@ -1,9 +1,4 @@
-* text=auto
-*.cs text eol=crlf
-*.csproj text eol=crlf
-*.sln text eol=crlf
-*.resx text eol=crlf
-*.md text eol=lf
-*.ps1 text eol=crlf
+# Preserve the source bytes when cloning or uploading through GitHub's web UI.
+* -text
 *.exe binary
 *.dll binary
